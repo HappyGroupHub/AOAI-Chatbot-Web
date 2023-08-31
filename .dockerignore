@@ -1,0 +1,8 @@
+# project
+node_modules
+.git*
+README.md
+
+# editors
+.vscode
+.editorconfig
